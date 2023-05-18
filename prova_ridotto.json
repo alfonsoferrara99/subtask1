@@ -1,0 +1,358 @@
+{
+    "caso_clinico_medtropical140": {
+        "name": "caso_clinico_medtropical140",
+        "annotations": {
+            "T1": {
+                "text": "albergues",
+                "tag": "FAC_GEN",
+                "start_span": 469,
+                "end_span": 478
+            },
+            "T2": {
+                "text": "bahía de Halong",
+                "tag": "GEO_NOM",
+                "start_span": 642,
+                "end_span": 657
+            },
+            "T3": {
+                "text": "barco",
+                "tag": "TRANSPORTE",
+                "start_span": 629,
+                "end_span": 634
+            },
+            "T4": {
+                "text": "bicicleta",
+                "tag": "TRANSPORTE",
+                "start_span": 542,
+                "end_span": 551
+            },
+            "T5": {
+                "text": "bicicleta",
+                "tag": "TRANSPORTE",
+                "start_span": 701,
+                "end_span": 710
+            },
+            "T6": {
+                "text": "bicicleta",
+                "tag": "TRANSPORTE",
+                "start_span": 960,
+                "end_span": 969
+            },
+            "T7": {
+                "text": "ciudad",
+                "tag": "GPE_GEN",
+                "start_span": 867,
+                "end_span": 873
+            },
+            "T8": {
+                "text": "costa",
+                "tag": "GEO_GEN",
+                "start_span": 559,
+                "end_span": 564
+            },
+            "T9": {
+                "text": "Da Nang",
+                "tag": "GPE_NOM",
+                "start_span": 765,
+                "end_span": 772
+            },
+            "T10": {
+                "text": "desplazamientos",
+                "tag": "TRANSPORTE",
+                "start_span": 941,
+                "end_span": 956
+            },
+            "T11": {
+                "text": "España",
+                "tag": "GPE_NOM",
+                "start_span": 35,
+                "end_span": 41
+            },
+            "T12": {
+                "text": "España",
+                "tag": "GPE_NOM",
+                "start_span": 886,
+                "end_span": 892
+            },
+            "T13": {
+                "text": "Hanoi",
+                "tag": "GPE_NOM",
+                "start_span": 606,
+                "end_span": 611
+            },
+            "T14": {
+                "text": "Hanoi",
+                "tag": "GPE_NOM",
+                "start_span": 670,
+                "end_span": 675
+            },
+            "T15": {
+                "text": "HoChi Minh",
+                "tag": "GPE_NOM",
+                "start_span": 808,
+                "end_span": 818
+            },
+            "T16": {
+                "text": "Hué",
+                "tag": "GPE_NOM",
+                "start_span": 743,
+                "end_span": 746
+            },
+            "T17": {
+                "text": "Marruecos",
+                "tag": "GPE_NOM",
+                "start_span": 239,
+                "end_span": 248
+            },
+            "T18": {
+                "text": "Méjico",
+                "tag": "GPE_NOM",
+                "start_span": 251,
+                "end_span": 257
+            },
+            "T19": {
+                "text": "Nha Trang",
+                "tag": "GPE_NOM",
+                "start_span": 783,
+                "end_span": 792
+            },
+            "T20": {
+                "text": "país",
+                "tag": "GPE_GEN",
+                "start_span": 569,
+                "end_span": 573
+            },
+            "T21": {
+                "text": "pensiones",
+                "tag": "FAC_GEN",
+                "start_span": 457,
+                "end_span": 466
+            },
+            "T22": {
+                "text": "Qui Nho",
+                "tag": "GPE_NOM",
+                "start_span": 774,
+                "end_span": 781
+            },
+            "T23": {
+                "text": "recorrido",
+                "tag": "TRANSPORTE",
+                "start_span": 529,
+                "end_span": 538
+            },
+            "T24": {
+                "text": "recorrido",
+                "tag": "TRANSPORTE",
+                "start_span": 578,
+                "end_span": 587
+            },
+            "T25": {
+                "text": "Tailandia",
+                "tag": "GPE_NOM",
+                "start_span": 228,
+                "end_span": 237
+            },
+            "T26": {
+                "text": "travesía",
+                "tag": "TRANSPORTE",
+                "start_span": 617,
+                "end_span": 625
+            },
+            "T27": {
+                "text": "túneles de Cuchi",
+                "tag": "GEO_NOM",
+                "start_span": 837,
+                "end_span": 853
+            },
+            "T28": {
+                "text": "vehículos",
+                "tag": "TRANSPORTE",
+                "start_span": 1044,
+                "end_span": 1053
+            },
+            "T29": {
+                "text": "viaje turístico",
+                "tag": "TRANSPORTE",
+                "start_span": 388,
+                "end_span": 403
+            },
+            "T30": {
+                "text": "viajes",
+                "tag": "TRANSPORTE",
+                "start_span": 208,
+                "end_span": 214
+            },
+            "T31": {
+                "text": "Vietnam",
+                "tag": "GPE_NOM",
+                "start_span": 406,
+                "end_span": 413
+            },
+            "T32": {
+                "text": "calle",
+                "tag": "FAC_GEN",
+                "start_span": 1003,
+                "end_span": 1008
+            },
+            "T33": {
+                "text": "consulta",
+                "tag": "DEPARTAMENTO",
+                "start_span": 335,
+                "end_span": 343
+            }
+        }
+    },
+    "casos_clinicos_infecciosas181": {
+        "name": "casos_clinicos_infecciosas181",
+        "annotations": {
+            "T1": {
+                "text": "Benidorm",
+                "tag": "GPE_NOM",
+                "start_span": 344,
+                "end_span": 352
+            },
+            "T2": {
+                "text": "Enfermedades Infecciosas",
+                "tag": "DEPARTAMENTO",
+                "start_span": 3703,
+                "end_span": 3727
+            },
+            "T3": {
+                "text": "Unidad de Columna de Traumatología",
+                "tag": "DEPARTAMENTO",
+                "start_span": 14667,
+                "end_span": 14701
+            },
+            "T4": {
+                "text": "Urgencias",
+                "tag": "DEPARTAMENTO",
+                "start_span": 931,
+                "end_span": 940
+            },
+            "T5": {
+                "text": "viaje",
+                "tag": "TRANSPORTE",
+                "start_span": 336,
+                "end_span": 341
+            },
+            "T13": {
+                "text": "laboratorio",
+                "tag": "FAC_GEN",
+                "start_span": 4311,
+                "end_span": 4322
+            }
+        }
+    },
+    "caso_clinico_medicina_interna710": {
+        "name": "caso_clinico_medicina_interna710",
+        "annotations": {
+            "T1": {
+                "text": "AP",
+                "tag": "DEPARTAMENTO",
+                "start_span": 1979,
+                "end_span": 1981
+            },
+            "T2": {
+                "text": "España",
+                "tag": "GPE_NOM",
+                "start_span": 66,
+                "end_span": 72
+            },
+            "T3": {
+                "text": "extranjero",
+                "tag": "GPE_GEN",
+                "start_span": 569,
+                "end_span": 579
+            },
+            "T4": {
+                "text": "Medicina Interna",
+                "tag": "DEPARTAMENTO",
+                "start_span": 1244,
+                "end_span": 1260
+            },
+            "T5": {
+                "text": "Rumanía",
+                "tag": "GPE_NOM",
+                "start_span": 45,
+                "end_span": 52
+            },
+            "T6": {
+                "text": "Urgencias",
+                "tag": "DEPARTAMENTO",
+                "start_span": 165,
+                "end_span": 174
+            },
+            "T7": {
+                "text": "Urgencias",
+                "tag": "DEPARTAMENTO",
+                "start_span": 596,
+                "end_span": 605
+            },
+            "T8": {
+                "text": "viajes",
+                "tag": "TRANSPORTE",
+                "start_span": 531,
+                "end_span": 537
+            }
+        }
+    },
+    "cc_onco1489": {
+        "name": "cc_onco1489",
+        "annotations": {
+            "T1": {
+                "text": "Anatomía patológica",
+                "tag": "DEPARTAMENTO",
+                "start_span": 1841,
+                "end_span": 1860
+            },
+            "T2": {
+                "text": "Hospital Clínico de Santiago",
+                "tag": "FAC_NOM",
+                "start_span": 487,
+                "end_span": 515
+            },
+            "T3": {
+                "text": "Hospital del Barbanza",
+                "tag": "FAC_NOM",
+                "start_span": 118,
+                "end_span": 139
+            },
+            "T4": {
+                "text": "Servicio de Cirugía",
+                "tag": "DEPARTAMENTO",
+                "start_span": 463,
+                "end_span": 482
+            },
+            "T5": {
+                "text": "Servicio de Oncología Médica",
+                "tag": "DEPARTAMENTO",
+                "start_span": 623,
+                "end_span": 651
+            },
+            "T6": {
+                "text": "traslado",
+                "tag": "TRANSPORTE",
+                "start_span": 715,
+                "end_span": 723
+            },
+            "T7": {
+                "text": "trasladó",
+                "tag": "TRANSPORTE",
+                "start_span": 611,
+                "end_span": 619
+            },
+            "T8": {
+                "text": "UCI",
+                "tag": "DEPARTAMENTO",
+                "start_span": 4265,
+                "end_span": 4268
+            },
+            "T9": {
+                "text": "Santiago",
+                "tag": "GPE_NOM",
+                "start_span": 507,
+                "end_span": 515
+            }
+        }
+    }
+}
